@@ -1,8 +1,8 @@
 /bin
-/.classpath
-/.project
-/target
-/.settings
+.classpath
+.project
+target/
+.settings/
 /doc
 /*.class
 /.README.md.html
